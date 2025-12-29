@@ -1,0 +1,7 @@
+{
+  "name": "CookWise - Your Digital Chef",
+  "description": "Smart meal scheduler and digital chef that helps you optimize leftovers, plan meals, and reduce food waste with AI-powered suggestions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
